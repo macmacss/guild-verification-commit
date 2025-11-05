@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-05T23:51:18.130Z
-Commit: Fix CSS styling bug on mobile devices
+Timestamp: 2025-11-05T23:51:52.378Z
+Commit: Resolve null pointer exception in user service
