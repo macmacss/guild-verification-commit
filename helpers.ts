@@ -1,3 +1,3 @@
 Guild.xyz verification
-Timestamp: 2025-11-06T00:06:16.032Z
-Commit: Fix database connection timeout
+Timestamp: 2025-11-06T00:06:38.973Z
+Commit: Fix broken links in documentation
